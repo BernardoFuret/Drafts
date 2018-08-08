@@ -1,3 +1,5 @@
 # Drafts
 
-<p style="text-align: center">Test center</p>
+<div style="text-align:center">
+	<p>Test center</p>
+</div>
